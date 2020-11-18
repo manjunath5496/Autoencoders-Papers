@@ -23,8 +23,16 @@
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/aue(10).pdf" style="text-decoration:none;">Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/aue(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/aue(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/aue(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/aue(11).pdf" style="text-decoration:none;">Contractive Auto-Encoders:
+Explicit Invariance During Feature Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Autoencoders-Papers/blob/master/aue(12).pdf" style="text-decoration:none;">Stacked Convolutional Auto-Encoders for
+Hierarchical Feature Extraction</a></li>
+
+
+
+
+
+
+
 
 </ul>
